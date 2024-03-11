@@ -1,0 +1,3 @@
+/home/kali/gilgil/byte-order/CMakeFiles/add-nbo.dir
+/home/kali/gilgil/byte-order/CMakeFiles/edit_cache.dir
+/home/kali/gilgil/byte-order/CMakeFiles/rebuild_cache.dir
