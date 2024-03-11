@@ -19,12 +19,12 @@
 
 
 
-+Makefile
-    >cmake 이용해서 생성
-    >CMakeLists.txt 최소 옵션 명시
++Makefile      
+    >cmake 이용해서 생성     
+    >CMakeLists.txt 최소 옵션 명시    
     
-    # CMakeLists.txt
-      cmake_minimum_required(VERSION 3.24)
-      project(add-nbo)
+    # CMakeLists.txt    
+      cmake_minimum_required(VERSION 3.24)    
+      project(add-nbo)     
  
-      add_executable(add-nbo add-nbo.c)
+      add_executable(add-nbo add-nbo.c)    
